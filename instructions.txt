@@ -1,0 +1,18 @@
+
+Shows the total CPU, memory, and disk space of each group and allows us to limit to top-k
+results
+
+     python3 invdb.py group-resources --limit 5
+
+
+
+Checks for group overlap. Given any number of groups, print all nodes that are in all the groups.
+
+     python3 invdb.py group-overlap --groups all,hbase
+
+     
+
+Shows the total CPU, memory, and disk space of each group and allows us to reverse the sort and limit
+to the bottom-k results
+
+     python3 invdb.py group-resources --limit 5 --reverse True
