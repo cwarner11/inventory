@@ -21,5 +21,5 @@ Notes:
   - Compile/run scripts, while not necessary, are appreciated
   - If using a compiled language, one must include the source files - we will recompile and use our build to test
 
-*My code is located instructions, requirements, and invdb.py*
+*My code is located in instructions, requirements, and invdb.py*
 
